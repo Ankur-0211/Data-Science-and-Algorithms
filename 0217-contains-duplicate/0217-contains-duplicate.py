@@ -1,6 +1,6 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        setmap=set([])
+        setmap=set()
 
         for i in range(len(nums)):
             val=nums[i]
