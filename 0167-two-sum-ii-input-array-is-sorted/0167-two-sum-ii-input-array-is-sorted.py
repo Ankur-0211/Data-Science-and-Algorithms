@@ -7,9 +7,9 @@ class Solution:
             if numbers[L]+numbers[R]==target:
                 return (L+1,R+1)
             
-            if numbers[L]+numbers[R]>target:
+            elif numbers[L]+numbers[R]>target:
                 R-=1
-            if numbers[L]+numbers[R]<target:
+            else:
                 L+=1
         
         return []
