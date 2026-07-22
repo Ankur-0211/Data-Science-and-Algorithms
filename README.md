@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
