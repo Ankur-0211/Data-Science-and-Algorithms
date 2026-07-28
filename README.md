@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
