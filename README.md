@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0454-4sum-ii) |
+| [0895-maximum-frequency-stack](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0895-maximum-frequency-stack](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
 ## Queue
 |  |
 | ------- |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0011-container-with-most-water) |
+## Design
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
