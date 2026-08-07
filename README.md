@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0895-maximum-frequency-stack](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
 ## Queue
 |  |
@@ -115,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
