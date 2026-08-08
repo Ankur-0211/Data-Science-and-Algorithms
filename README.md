@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0895-maximum-frequency-stack](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
 ## Sorting
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
