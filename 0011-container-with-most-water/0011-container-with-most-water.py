@@ -8,13 +8,9 @@ class Solution:
                 
                 area=min(height[l],height[r])*(r-l)
                 l+=1
-            elif height[l]>height[r]:
-                
-                area=min(height[l],height[r])*(r-l)
-                r-=1
+
             else:
                 area=min(height[l],height[r])*(r-l)
-                l+=1
                 r-=1
 
             max_area=max(area,max_area)
