@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0454-4sum-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0895-maximum-frequency-stack](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
 ## Ordered Set
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
