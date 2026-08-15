@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0895-maximum-frequency-stack](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
