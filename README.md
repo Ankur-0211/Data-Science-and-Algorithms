@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0041-first-missing-positive) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0042-trapping-rain-water) |
