@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/1109-corporate-flight-bookings) |
 | [1854-maximum-population-year](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/1854-maximum-population-year) |
+| [1929-concatenation-of-array](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/1094-car-pooling) |
+| [1929-concatenation-of-array](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
