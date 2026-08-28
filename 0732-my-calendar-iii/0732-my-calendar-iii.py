@@ -12,10 +12,8 @@ class MyCalendarThree:
         sortedmap=sorted(self.eventmap.keys())
         prefix=0
         for event in sortedmap:
-            
-            if event in self.eventmap:
-                prefix+=self.eventmap[event]
-                self.maxcount=max(self.maxcount,prefix)
+            prefix+=self.eventmap[event]
+            self.maxcount=max(self.maxcount,prefix)
         return self.maxcount
 
 
