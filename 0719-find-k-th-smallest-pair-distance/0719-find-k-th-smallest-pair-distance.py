@@ -8,7 +8,7 @@ class Solution:
 
             while r<len(nums):
                 
-                while abs(nums[l]-nums[r])>mid: 
+                while nums[r]-nums[l]>mid: 
                     l+=1
                 totalpair+=r-l
                 r+=1
