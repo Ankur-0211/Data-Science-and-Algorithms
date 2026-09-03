@@ -21,9 +21,5 @@ class Solution:
                         return False
 
         
-        for card in freq:
-            if freq[card]>0:
-                return False
-        
         return True
         
