@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0846-hand-of-straights](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0846-hand-of-straights) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/1109-corporate-flight-bookings) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0846-hand-of-straights](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0846-hand-of-straights) |
 | [0895-maximum-frequency-stack](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sorting
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0846-hand-of-straights](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0846-hand-of-straights) |
 | [1094-car-pooling](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/1094-car-pooling) |
 ## Two Pointers
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0846-hand-of-straights](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0846-hand-of-straights) |
 ## Design
 |  |
 | ------- |
