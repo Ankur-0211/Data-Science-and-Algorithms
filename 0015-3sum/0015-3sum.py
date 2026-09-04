@@ -3,7 +3,7 @@ class Solution:
         res=[]
         nums.sort()
         for i in range(len(nums)):
-            if nums[i]==nums[i-1] and i!=0:
+            if i>0 and nums[i]==nums[i-1]:
                 continue
 
             l=i+1
