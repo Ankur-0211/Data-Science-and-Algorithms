@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0136-single-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 ## Math
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [1094-car-pooling](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/1929-concatenation-of-array) |
 ## Segment Tree
