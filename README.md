@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0729-my-calendar-i) |
 | [0846-hand-of-straights](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0846-hand-of-straights) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/1094-car-pooling) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0732-my-calendar-iii) |
 ## Bit Manipulation
 |  |
@@ -152,11 +154,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
+| [0729-my-calendar-i](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0732-my-calendar-iii) |
 | [0895-maximum-frequency-stack](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0732-my-calendar-iii) |
 | [0895-maximum-frequency-stack](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0895-maximum-frequency-stack) |
 ## Prefix Sum
@@ -202,5 +206,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0732-my-calendar-iii) |
 <!---LeetCode Topics End-->
