@@ -15,15 +15,15 @@ class Solution:
             if current.val==val and current==head:
                 head=head.next
                 current=head
-            elif current.next is not None:
-                if current.next.val==val:
-                    current.next=current.next.next
-                else:
-                    current=current.next
+            # elif current.next is not None:
+            elif current.next.val==val:
+                current.next=current.next.next
+            else:
+                current=current.next
         
         if head.val==val:
             head=head.next
-            
+
         return head
 
             
