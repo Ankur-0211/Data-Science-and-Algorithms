@@ -208,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0732-my-calendar-iii) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Ankur-0211/Data-Science-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
