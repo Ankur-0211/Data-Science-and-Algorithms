@@ -13,7 +13,8 @@ class Solution:
         #     return head
         
         
-        while current is not None and current.next is not None:
+        # while current is not None and current.next is not None:
+        while current and current.next:
             if current.next.val==current.val:
                 current.next=current.next.next
             else:
