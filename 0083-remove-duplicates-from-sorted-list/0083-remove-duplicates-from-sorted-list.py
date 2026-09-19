@@ -7,10 +7,10 @@ class Solution:
     def deleteDuplicates(self, head: ListNode | None) -> ListNode | None:
         current=head
 
-        if head is None:
-            return head
-        elif head.next is None:
-            return head
+        # if head is None:
+        #     return head
+        # elif head.next is None:
+        #     return head
         
         
         while current is not None and current.next is not None:
