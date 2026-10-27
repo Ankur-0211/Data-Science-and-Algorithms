@@ -14,22 +14,22 @@ class Solution:
             while temp is not None:
                 count+=1
                 temp=temp.next
-            print(count)
-            
-            pos=(count-n)-1
+            # print(count)
 
-            while pos>0:
-                current=current.next
-                pos-=1
-            print(pos)
-            print(current.val)
-
-            if pos<0:
+            if count == n:
                 head=head.next
+
+            else:
+
+                pos=(count-n)-1
+
+                while pos>0:
+                    current=current.next
+                    pos-=1
             
-            if current.next !=None:
-            
-                current.next=current.next.next
+                if current.next !=None:
+                
+                    current.next=current.next.next
         else:
             head=None
 
